@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Basketball Score Keeper</string>
+    <string name="TeamA">Chicago Bulls</string>
+    <string name="TeamB">L.A Lakers</string>
+    <string name="initScore">0</string>
+    <string name="msg3">+3 Points</string>
+    <string name="msg2">+2 Points</string>
+    <string name="msg1">Free Throw</string>
+    <string name="btnEnd">End of Game</string>
+    <string name="btnReset">Reset</string>
+</resources>
